@@ -6,7 +6,7 @@
 
 # Student Information
 # Change the name below to your full name.
-$StudentName = "Mahdee"
+$StudentName = "Mahdee2"
 
 # Display student information
 Write-Host "=================================="
